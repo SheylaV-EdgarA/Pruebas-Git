@@ -8,7 +8,7 @@ public class paneles extends JFrame{
 	public paneles(){
 		super("Paneles");
 		//this.setLayout(new FlowLayout());
-		System.out.println("Mi ma, que locura");
+		System.out.println("Mi ma que locura");
 		
 		panel=new JPanel();
 		panel.setLayout(null);
