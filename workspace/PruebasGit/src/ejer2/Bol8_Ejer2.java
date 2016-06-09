@@ -178,7 +178,7 @@ public class Bol8_Ejer2 extends JFrame implements ActionListener {
 			Color temp = new Color(234, 177, 255);
 			if (nuevo.getBackground().equals(temp))
 				nuevo.setBackground(Color.white);
-
+			System.out.println("hola");
 		}
 
 		@Override
